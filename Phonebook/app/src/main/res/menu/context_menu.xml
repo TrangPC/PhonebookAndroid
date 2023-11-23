@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/callMenuItem"
+        android:title="Call"/>
+    <item
+        android:id="@+id/smsMenuItem"
+        android:title="Send SMS"/>
+    <item
+        android:id="@+id/emailMenuItem"
+        android:title="Send Email"/>
+</menu>
